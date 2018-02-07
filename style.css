@@ -1,0 +1,40 @@
+body {
+  min-width: 720px; }
+
+col {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.key {
+  border: 1px solid black;
+  border-radius: 2px;
+  display: inline-block;
+  height: 40px;
+  margin: 1px -1px; }
+
+.u1 {
+  width: 40px; }
+
+.u125 {
+  width: 50px; }
+
+.u15 {
+  width: 60px; }
+
+.u175 {
+  width: 70px; }
+
+.u2 {
+  width: 80px; }
+
+.u225 {
+  width: 90px; }
+
+.u275 {
+  width: 110px; }
+
+.u65 {
+  width: 260px; }
+
+/*# sourceMappingURL=style.css.map */
